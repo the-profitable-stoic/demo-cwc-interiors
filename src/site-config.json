@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "CWC Interiors",
+    "phone": "+19182500025",
+    "category": "flooring contractor",
+    "city": "Tulsa",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tulsa's Flooring Experts",
+      "heroSubline": "Durable floors, expertly installed. CWC Interiors delivers quality and lasting value to Tulsa homes and businesses.",
+      "aboutTitle": "Crafting Tulsa's Floors for Over a Decade",
+      "aboutText": [
+        "CWC Interiors started with a simple mission: to provide Tulsa with flooring solutions built to withstand Oklahoma's unique climate and lifestyle. Founded by local craftsman, we've grown from a small team to a trusted name in flooring.",
+        "We believe in doing things right the first time. Our approach combines meticulous planning, skilled installation, and a commitment to using only the finest materials. We prioritize clear communication and attention to detail on every project.",
+        "As a Tulsa-based company, we're invested in our community. We partner with local suppliers and participate in initiatives that support Tulsa's growth and vibrancy. We're not just building floors; we're building relationships."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Our team of skilled installers ensures precise and durable flooring solutions."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We source high-quality materials that stand up to Tulsa's weather and wear."
+        },
+        {
+          "title": "Personalized Service",
+          "description": "From consultation to completion, we provide tailored solutions to meet your specific needs."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a commitment to your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Ready for New Floors?",
+      "ctaSubline": "Get a free quote and discover the CWC Interiors difference."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Timeless elegance and lasting value for Tulsa homes.",
+        "description": "Hardwood flooring adds warmth and sophistication to any space. At CWC Interiors, we specialize in the installation, repair, and refinishing of hardwood floors throughout Tulsa. From classic oak to exotic species, we offer a wide selection of hardwood options to complement your style and budget.\n\nOur experienced team understands the nuances of hardwood installation, ensuring a flawless finish and long-lasting durability. We take into account Tulsa's fluctuating humidity levels, using proper acclimation techniques to minimize expansion and contraction. Whether you're looking to install new hardwood floors in your Brookside bungalow or restore the original charm of your Maple Ridge home, we have the expertise to deliver exceptional results.\n\nWe also offer dustless sanding and refinishing services to breathe new life into existing hardwood floors. Our eco-friendly finishes protect your floors and enhance their natural beauty. Let CWC Interiors help you create a stunning and durable hardwood floor that will last for generations.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and preferences to select the perfect hardwood for your space.",
+          "Step 2: Precise Measurement and Quote – We provide a detailed and transparent quote based on accurate measurements.",
+          "Step 3: Professional Installation – Our skilled installers ensure a flawless and durable installation.",
+          "Step 4: Finishing and Sealing – We apply protective finishes to enhance the beauty and longevity of your hardwood floors."
+        ],
+        "benefits": [
+          "Adds value to your home",
+          "Enhances the aesthetic appeal of any room",
+          "Durable and long-lasting",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "The installation time depends on the size and complexity of the project, but most installations are completed within a few days."
+          },
+          {
+            "question": "What types of hardwood are best for Tulsa's climate?",
+            "answer": "We recommend hardwoods that are resistant to moisture and humidity, such as white oak and hickory."
+          },
+          {
+            "question": "How often should I refinish my hardwood floors?",
+            "answer": "The frequency of refinishing depends on the amount of foot traffic and wear, but typically every 7-10 years is recommended."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring",
+        "shortDescription": "Durable, stylish, and versatile tile solutions for Tulsa homes.",
+        "description": "Tile flooring offers a wide range of design possibilities and unparalleled durability, making it a popular choice for Tulsa homeowners. CWC Interiors specializes in the installation of ceramic, porcelain, and natural stone tile for kitchens, bathrooms, and other areas throughout your home.\n\nWe understand the importance of proper subfloor preparation to ensure a long-lasting and crack-free tile installation. Our team uses industry-leading techniques and materials to create a solid foundation for your tile floor. Whether you're renovating a classic Tulsa bungalow or building a new home in a suburban development, we have the expertise to handle any tile project.\n\nFrom intricate mosaic patterns to large-format tiles, we can bring your design vision to life. We also offer tile repair and grout cleaning services to keep your tile floors looking their best. Let CWC Interiors transform your space with beautiful and durable tile flooring that will stand the test of time.",
+        "process": [
+          "Step 1: Design Consultation – We help you choose the perfect tile style, color, and pattern for your space.",
+          "Step 2: Subfloor Preparation – We ensure a level and stable subfloor for optimal tile adhesion.",
+          "Step 3: Precise Tile Installation – Our skilled installers meticulously lay each tile to create a flawless finish.",
+          "Step 4: Grouting and Sealing – We apply high-quality grout and sealant to protect your tile floor from moisture and stains."
+        ],
+        "benefits": [
+          "Water-resistant and easy to clean",
+          "Available in a wide variety of styles and colors",
+          "Durable and long-lasting",
+          "Adds value to your home"
+        ],
+        "faq": [
+          {
+            "question": "Is tile flooring suitable for Tulsa's climate?",
+            "answer": "Yes, tile flooring is an excellent choice for Tulsa's climate due to its resistance to moisture and temperature fluctuations."
+          },
+          {
+            "question": "What is the best type of tile for a bathroom?",
+            "answer": "Porcelain tile is a popular choice for bathrooms due to its water resistance and durability."
+          },
+          {
+            "question": "How do I clean tile floors?",
+            "answer": "Regular cleaning with a mild detergent and water is usually sufficient to keep tile floors looking their best."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable and stylish laminate flooring solutions for Tulsa families.",
+        "description": "Laminate flooring offers a cost-effective and attractive alternative to hardwood and tile. CWC Interiors provides professional laminate flooring installation services throughout Tulsa and the surrounding areas. Our laminate flooring options are designed to mimic the look and feel of natural materials, providing a stylish and durable solution for any room in your home.\n\nWe understand that Tulsa families need flooring that can withstand daily wear and tear. Our laminate flooring is scratch-resistant, stain-resistant, and easy to clean, making it an ideal choice for busy households. Whether you're updating your living room in Midtown or renovating a rental property, we have the perfect laminate flooring solution for your needs.\n\nOur experienced installers ensure a precise and seamless installation, paying close attention to detail to create a beautiful and long-lasting floor. We also offer a wide range of laminate flooring styles and colors to complement any décor. Let CWC Interiors help you transform your space with affordable and stylish laminate flooring.",
+        "process": [
+          "Step 1: Selection and Consultation – We help you choose the perfect laminate flooring style and color.",
+          "Step 2: Subfloor Inspection and Preparation – We ensure a smooth and level subfloor for optimal laminate installation.",
+          "Step 3: Professional Laminate Installation – Our skilled installers meticulously lay each plank for a seamless finish.",
+          "Step 4: Finishing Touches – We install baseboards and trim to complete the look."
+        ],
+        "benefits": [
+          "Affordable and budget-friendly",
+          "Scratch-resistant and stain-resistant",
+          "Easy to clean and maintain",
+          "Available in a wide range of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While some laminate flooring options are water-resistant, it's important to choose a waterproof option for bathrooms and kitchens."
+          },
+          {
+            "question": "How long does laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While DIY installation is possible, professional installation ensures a proper and long-lasting result."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Durable and waterproof vinyl flooring for Tulsa's active lifestyles.",
+        "description": "Vinyl flooring is a versatile and affordable option that's perfect for Tulsa homes with active families. CWC Interiors offers a wide selection of vinyl flooring options, including sheet vinyl, vinyl tile, and luxury vinyl plank (LVP). Our vinyl flooring is waterproof, scratch-resistant, and easy to clean, making it an ideal choice for kitchens, bathrooms, and basements.\n\nWe understand the challenges of Tulsa's climate, and our vinyl flooring is designed to withstand moisture and temperature fluctuations. Whether you're renovating a historic home in the Blue Dome District or updating a modern condo, we have the perfect vinyl flooring solution for your needs.\n\nOur experienced installers ensure a precise and seamless installation, paying close attention to detail to create a beautiful and long-lasting floor. We also offer a wide range of vinyl flooring styles and colors to complement any décor. Let CWC Interiors help you transform your space with durable and waterproof vinyl flooring.",
+        "process": [
+          "Step 1: Consultation and Selection – We help you choose the perfect vinyl flooring style and color.",
+          "Step 2: Subfloor Preparation – We ensure a smooth and level subfloor for optimal vinyl installation.",
+          "Step 3: Professional Vinyl Installation – Our skilled installers meticulously lay each sheet or plank for a seamless finish.",
+          "Step 4: Sealing and Finishing – We apply sealant to protect your vinyl floor from moisture and stains."
+        ],
+        "benefits": [
+          "Waterproof and moisture-resistant",
+          "Scratch-resistant and stain-resistant",
+          "Easy to clean and maintain",
+          "Affordable and budget-friendly"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for basements?",
+            "answer": "Yes, vinyl flooring is an excellent choice for basements due to its waterproof properties."
+          },
+          {
+            "question": "How do I clean vinyl floors?",
+            "answer": "Regular cleaning with a mild detergent and water is usually sufficient to keep vinyl floors looking their best."
+          },
+          {
+            "question": "What is the difference between vinyl tile and luxury vinyl plank?",
+            "answer": "Vinyl tile is typically less expensive and comes in square shapes, while luxury vinyl plank (LVP) is designed to mimic the look of hardwood planks."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Comfortable and stylish carpet solutions for Tulsa homes and businesses.",
+        "description": "Carpet adds warmth, comfort, and style to any space. CWC Interiors offers professional carpet installation services throughout Tulsa and the surrounding areas. We provide a wide selection of carpet styles, colors, and textures to suit your needs and budget. Whether you're looking to create a cozy living room or a comfortable office space, we have the perfect carpet solution for you.\n\nWe understand that Tulsa residents value quality and durability. Our carpets are designed to withstand daily wear and tear, and our experienced installers ensure a precise and long-lasting installation. We also offer carpet repair and cleaning services to keep your carpets looking their best.\n\nFrom plush shag to durable Berber, we can help you choose the perfect carpet for your lifestyle. Let CWC Interiors transform your space with comfortable and stylish carpet that will enhance the beauty and value of your home or business.",
+        "process": [
+          "Step 1: Consultation and Selection – We help you choose the perfect carpet style, color, and texture.",
+          "Step 2: Precise Measurement and Quote – We provide a detailed and transparent quote based on accurate measurements.",
+          "Step 3: Professional Carpet Installation – Our skilled installers ensure a seamless and secure installation.",
+          "Step 4: Cleaning and Finishing – We vacuum and clean the carpet to ensure a pristine finish."
+        ],
+        "benefits": [
+          "Adds warmth and comfort to any room",
+          "Reduces noise and provides insulation",
+          "Available in a wide variety of styles and colors",
+          "Enhances the aesthetic appeal of your home or business"
+        ],
+        "faq": [
+          {
+            "question": "What is the best type of carpet for high-traffic areas?",
+            "answer": "Berber carpet is a durable and stain-resistant option that is ideal for high-traffic areas."
+          },
+          {
+            "question": "How often should I clean my carpets?",
+            "answer": "We recommend professional carpet cleaning every 12-18 months to maintain their appearance and longevity."
+          },
+          {
+            "question": "Can I install carpet myself?",
+            "answer": "While DIY installation is possible, professional installation ensures a proper and long-lasting result."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair",
+        "name": "Floor Repair",
+        "shortDescription": "Reliable floor repair services to restore your Tulsa floors.",
+        "description": "From water damage to wear and tear, floors can suffer various types of damage over time. CWC Interiors offers comprehensive floor repair services throughout Tulsa and the surrounding areas. Our experienced technicians can repair hardwood, tile, laminate, vinyl, and carpet floors, restoring them to their former glory.\n\nWe understand that Tulsa homes face unique challenges, including seasonal temperature changes and potential water damage from storms. Our floor repair services are designed to address these issues and provide long-lasting solutions. Whether you have a cracked tile in your kitchen or a warped hardwood floor in your living room, we can help.\n\nOur team uses industry-leading techniques and materials to ensure a seamless and durable repair. We also offer preventative maintenance services to help you protect your floors from future damage. Let CWC Interiors restore the beauty and functionality of your floors with our reliable floor repair services.",
+        "process": [
+          "Step 1: Damage Assessment – We inspect the damage to determine the best course of action.",
+          "Step 2: Material Selection – We choose the appropriate materials to match your existing flooring.",
+          "Step 3: Professional Repair – Our skilled technicians perform the repair with precision and care.",
+          "Step 4: Finishing and Sealing – We apply sealant to protect the repaired area from future damage."
+        ],
+        "benefits": [
+          "Extends the life of your floors",
+          "Restores the beauty and functionality of your space",
+          "Prevents further damage",
+          "Cost-effective alternative to floor replacement"
+        ],
+        "faq": [
+          {
+            "question": "How much does floor repair cost?",
+            "answer": "The cost of floor repair depends on the type and extent of the damage. We provide free estimates for all floor repair projects."
+          },
+          {
+            "question": "Can you repair water-damaged floors?",
+            "answer": "Yes, we specialize in repairing water-damaged floors, including hardwood, tile, and vinyl."
+          },
+          {
+            "question": "How long does floor repair take?",
+            "answer": "The duration of floor repair depends on the complexity of the project, but most repairs can be completed within a few days."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Tulsa",
+        "slug": "tulsa-ok",
+        "state": "OK",
+        "content": "CWC Interiors is proud to offer comprehensive flooring services to the residents and businesses of Tulsa, Oklahoma. As a premier flooring contractor, we understand the unique needs of Tulsa homes and businesses, from traditional hardwood to modern, durable options. We are committed to providing top-quality flooring solutions that enhance the beauty and value of your property.\n\nOur expert team handles every aspect of your flooring project, from initial consultation and material selection to professional installation and finishing. We offer a wide variety of flooring types, including hardwood, laminate, vinyl, tile, and carpet, ensuring that we have the perfect option to match your style and budget. CWC Interiors is dedicated to providing exceptional customer service and delivering results that exceed your expectations in Tulsa.\n\nWhether you're renovating your home in midtown, updating your business space downtown, or building a new construction in South Tulsa, CWC Interiors provides quality flooring services to fit your needs. We have years of experience working throughout Tulsa and the surrounding areas. You can trust us to provide the perfect flooring solution for you.",
+        "localContext": "Tulsa is a vibrant city known for its art deco architecture and thriving arts scene, with a diverse range of neighborhoods each with their own unique character.",
+        "nearbyAreas": [
+          "Broken Arrow",
+          "Owasso",
+          "Sand Springs"
+        ]
+      },
+      {
+        "city": "Broken Arrow",
+        "slug": "broken-arrow-ok",
+        "state": "OK",
+        "content": "CWC Interiors extends its expert flooring services to Broken Arrow, Oklahoma, providing residents and businesses with high-quality flooring solutions. Broken Arrow's blend of suburban comfort and community spirit makes it a wonderful place to live and work, and we aim to enhance that appeal with beautiful and durable flooring.\n\nWe offer a comprehensive range of flooring options to suit any style and budget in Broken Arrow. Whether you're looking for classic hardwood, easy-to-maintain laminate, or luxurious carpet, our experienced team will guide you through the selection process and ensure a flawless installation. CWC Interiors is committed to delivering exceptional customer service and creating stunning floors that will last for years to come.\n\nFrom new construction to remodeling projects, CWC Interiors is your trusted partner for all your flooring needs in Broken Arrow. We are proud to serve this growing community and help homeowners and businesses create spaces they love.",
+        "localContext": "Broken Arrow is a family-friendly city known for its excellent schools and community events, offering a blend of small-town charm and big-city amenities.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Coweta",
+          "Bixby"
+        ]
+      },
+      {
+        "city": "Owasso",
+        "slug": "owasso-ok",
+        "state": "OK",
+        "content": "CWC Interiors is dedicated to providing top-notch flooring services to the residents and businesses of Owasso, Oklahoma. As a growing and thriving community, Owasso deserves the best in flooring solutions, and we are here to deliver just that. We provide a wide range of flooring options, from classic to modern, to perfectly complement your space.\n\nOur team of skilled professionals is committed to providing exceptional craftsmanship and customer service. We understand that choosing the right flooring can be a daunting task, which is why we offer personalized consultations to help you find the perfect fit for your style and budget. CWC Interiors is your trusted partner for all your flooring needs in Owasso.\n\nWhether you're renovating your home or upgrading your business space, CWC Interiors is here to help. We take pride in our work and strive to exceed your expectations with every project. We've worked with many homeowners and businesses in Owasso, and we're confident we can help you find the perfect flooring for your property.",
+        "localContext": "Owasso is a vibrant and growing city known for its excellent schools and family-friendly atmosphere, offering a high quality of life for its residents.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Collinsville",
+          "Skiatook"
+        ]
+      },
+      {
+        "city": "Sand Springs",
+        "slug": "sand-springs-ok",
+        "state": "OK",
+        "content": "CWC Interiors is proud to offer its comprehensive flooring services to the residents and businesses of Sand Springs, Oklahoma. Sand Springs is a community with a rich history and a bright future, and we are committed to providing flooring solutions that enhance its unique character.\n\nWe offer a wide range of flooring options to suit any style and budget, from traditional hardwood to modern, durable materials. Our expert team will handle every aspect of your flooring project, from initial consultation to professional installation and finishing. CWC Interiors is dedicated to providing exceptional customer service and delivering results that exceed your expectations.\n\nWhether you're renovating your home in the historic downtown area or updating your business space near the Arkansas River, CWC Interiors is your trusted partner for all your flooring needs in Sand Springs. We are committed to helping you create the perfect space with beautiful and long-lasting floors.",
+        "localContext": "Sand Springs is a historic city located on the Arkansas River, known for its scenic beauty and strong sense of community.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sapulpa",
+          "Mannford"
+        ]
+      },
+      {
+        "city": "Bixby",
+        "slug": "bixby-ok",
+        "state": "OK",
+        "content": "CWC Interiors proudly serves the growing community of Bixby, Oklahoma, offering top-quality flooring solutions to homeowners and businesses alike. Bixby's reputation for excellent schools and family-friendly atmosphere makes it a desirable place to live, and we're committed to enhancing the beauty and value of your property with our expert flooring services.\n\nWe offer a wide selection of flooring options to suit any style and budget, from classic hardwood to modern vinyl and tile. Our experienced team will guide you through the selection process and ensure a flawless installation, paying close attention to detail and exceeding your expectations. CWC Interiors is dedicated to providing exceptional customer service and creating stunning floors that will last for years to come.\n\nFrom new construction to remodeling projects, CWC Interiors is your trusted partner for all your flooring needs in Bixby. We're proud to be a part of this thriving community and help homeowners and businesses create spaces they love.",
+        "localContext": "Bixby is a rapidly growing city known for its excellent schools and family-friendly environment, offering a high quality of life for its residents.",
+        "nearbyAreas": [
+          "Broken Arrow",
+          "Tulsa",
+          "Jenks"
+        ]
+      },
+      {
+        "city": "Jenks",
+        "slug": "jenks-ok",
+        "state": "OK",
+        "content": "CWC Interiors is pleased to provide flooring services to Jenks, Oklahoma. We offer a wide range of flooring solutions to meet the needs of the Jenks community. Jenks is a growing city with a strong sense of community, and we are committed to providing top-quality flooring solutions that enhance the beauty and value of your home or business.\n\nOur experienced team handles every aspect of your flooring project, from initial consultation and material selection to professional installation and finishing. We offer a wide variety of flooring types, including hardwood, laminate, vinyl, tile, and carpet, ensuring that we have the perfect option to match your style and budget. CWC Interiors is dedicated to providing exceptional customer service and delivering results that exceed your expectations in Jenks.\n\nIf you're looking to update your home or business with new flooring, CWC Interiors is here to help. We have years of experience working throughout the Jenks area, and we are confident that we can provide the perfect flooring solution for you.",
+        "localContext": "Jenks is a dynamic city known for its aquarium, vibrant downtown area, and excellent schools, making it a popular destination for families.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Bixby",
+          "Glenpool"
+        ]
+      },
+      {
+        "city": "Sapulpa",
+        "slug": "sapulpa-ok",
+        "state": "OK",
+        "content": "CWC Interiors is proud to extend its flooring expertise to Sapulpa, Oklahoma. As a town with a rich history and a close-knit community, Sapulpa deserves flooring solutions that are both beautiful and durable. We're dedicated to providing residents and businesses with top-quality flooring options that enhance their spaces.\n\nWe offer a comprehensive range of flooring choices, from classic hardwood to modern laminate and tile, ensuring that we can meet any style and budget. Our experienced team will guide you through the selection process and ensure a flawless installation, paying attention to every detail. CWC Interiors is committed to providing exceptional customer service and creating stunning floors that will last for years to come.\n\nWhether you're renovating a historic home or updating a commercial space, CWC Interiors is your trusted partner for all your flooring needs in Sapulpa. We're proud to serve this community and help homeowners and businesses create spaces they love.",
+        "localContext": "Sapulpa is a town steeped in history, known for its antique shops and community events that celebrate its heritage.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sand Springs",
+          "Bristow"
+        ]
+      },
+      {
+        "city": "Glenpool",
+        "slug": "glenpool-ok",
+        "state": "OK",
+        "content": "CWC Interiors is pleased to offer flooring services to Glenpool, Oklahoma. We are committed to providing top-quality flooring solutions that enhance the beauty and value of your home or business. Glenpool is a growing city with a strong sense of community and a bright future.\n\nOur experienced team handles every aspect of your flooring project, from initial consultation and material selection to professional installation and finishing. We offer a wide variety of flooring types, including hardwood, laminate, vinyl, tile, and carpet, ensuring that we have the perfect option to match your style and budget. CWC Interiors is dedicated to providing exceptional customer service and delivering results that exceed your expectations in Glenpool.\n\nIf you're looking to update your home or business with new flooring, CWC Interiors is here to help. We have years of experience working throughout the Glenpool area, and we are confident that we can provide the perfect flooring solution for you. From new construction to renovations, CWC Interiors is your one-stop shop for all your flooring needs.",
+        "localContext": "Glenpool is a rapidly growing city known for its family-friendly atmosphere and proximity to Tulsa, offering a blend of suburban comfort and urban convenience.",
+        "nearbyAreas": [
+          "Jenks",
+          "Sapulpa",
+          "Mounds"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Hardwood Flooring",
+        "text": "CWC Interiors did an amazing job installing hardwood floors in my living room. The team was professional, efficient, and the floors look absolutely stunning. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David P.",
+        "rating": 4,
+        "service": "Tile Flooring",
+        "text": "We hired CWC Interiors to install tile in our bathroom, and we're very happy with the results. The installation was done quickly and the quality is excellent. There was a minor issue with the grout color at first, but they quickly corrected it to our satisfaction.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Laminate Flooring",
+        "text": "CWC Interiors installed laminate flooring in our basement, and it looks fantastic! The team was professional and courteous, and the price was very reasonable. I especially appreciated their attention to detail and the cleanup after the project.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Michael K.",
+        "rating": 5,
+        "service": "Vinyl Flooring",
+        "text": "I needed a new floor for my kitchen and chose CWC Interiors for vinyl installation. The team was great from start to finish, helping me pick the right style and ensuring a perfect fit. It's waterproof, looks great, and was within my budget. Thanks!",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Ashley G.",
+        "rating": 4,
+        "service": "Carpet Installation",
+        "text": "CWC Interiors did a great job installing new carpet in my bedrooms. The installers were quick and efficient, and the carpet feels so soft and luxurious. The only reason I didn't give a full 5 stars is because there were a few small snags that needed to be addressed, but they fixed them promptly.",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Floor Repair",
+        "text": "I had some water damage to my hardwood floors, and CWC Interiors did an excellent job repairing them. You can't even tell where the damage was! The technician was knowledgeable and professional, and the price was very fair.",
+        "date": "2024-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "CWC Interiors | Flooring Tulsa OK",
+        "description": "Tulsa's trusted flooring contractor. Hardwood, tile, laminate, & more. Expert installation & repair. Free quotes!"
+      },
+      "about": {
+        "title": "About CWC Interiors | Tulsa Flooring",
+        "description": "Learn about CWC Interiors, Tulsa's premier flooring contractor. Quality craftsmanship, local expertise, & customer satisfaction."
+      },
+      "services": {
+        "title": "Flooring Services | CWC Interiors Tulsa",
+        "description": "Comprehensive flooring services in Tulsa. Hardwood, tile, laminate, vinyl, carpet installation & repair. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact CWC Interiors | Tulsa Flooring",
+        "description": "Contact CWC Interiors for flooring services in Tulsa, OK. Get a free quote for hardwood, tile, laminate, vinyl, & carpet installation."
+      },
+      "reviews": {
+        "title": "CWC Interiors Reviews | Tulsa Flooring",
+        "description": "Read reviews for CWC Interiors, Tulsa's trusted flooring contractor. See what our customers say about our quality & service."
+      },
+      "service-areas": {
+        "title": "Service Areas | CWC Interiors Tulsa",
+        "description": "CWC Interiors provides quality flooring to Tulsa and surrounding areas. Contact us for a free quote today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "floor-repair": "/images/service-floor-repair.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair": {
+        "src": "/images/service-floor-repair.webp",
+        "srcset": "/images/service-floor-repair-400w.webp 400w, /images/service-floor-repair-800w.webp 800w, /images/service-floor-repair-1200w.webp 1200w, /images/service-floor-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
